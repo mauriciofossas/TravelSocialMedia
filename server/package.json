@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dane Johnson & Mau Fossas Koval",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "password-hash": "^1.2.2",
+    "request": "^2.88.0"
+  }
+}
